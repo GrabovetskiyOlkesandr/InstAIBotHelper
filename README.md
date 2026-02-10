@@ -26,23 +26,28 @@ The following screenshots demonstrate the bot's logic flow, from initial contact
 
 ### 1. Intro & Consultation
 The bot greets the user and explains the company's focus.
-![Intro](screencast/intro.png)
+<br>
+<img src="screencast/intro.png" height="500">
 
 ### 2. Pricing Estimation
 The bot provides pricing ranges based on the knowledge base.
-![Pricing](screencast/pricing.png)
+<br>
+<img src="screencast/pricing.png" height="500">
 
 ### 3. Lead Capture
 When the user is ready, the bot collects contact information naturally.
-![Lead Capture](screencast/lead_capture.png)
+<br>
+<img src="screencast/lead_capture.png" height="500">
 
 ### 4. CRM Notification (Admin View)
 The moment a user leaves data, the admin receives a structured "New Lead" alert.
-![Admin Alert](screencast/admin_alert.png)
+<br>
+<img src="screencast/admin_alert.png" height="500">
 
 ### 5. Guardrails (Off-topic Filter)
 The bot politely refuses to answer irrelevant questions and returns to business topics.
-![Guardrails](screencast/guardrails.png)
+<br>
+<img src="screencast/guardrails.png" height="500">
 
 ## Installation
 
